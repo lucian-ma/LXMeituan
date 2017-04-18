@@ -1,0 +1,39 @@
+//
+//  PrefixHeader.pch
+//  LXMeituan
+//
+//  Created by Noki on 2017/4/7.
+//  Copyright © 2017年 nuoki. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "UIView+Extension.h"
+#import "UIImageView+WebCache.h"
+#import <MJExtension/MJExtension.h>
+//获取屏幕尺寸
+#define LXScreen_width [UIScreen mainScreen].bounds.size.width
+#define LXScreen_height [UIScreen mainScreen].bounds.size.height
+
+//颜色
+#define LXGRB(r,g,b)  [UIColor colorWithRed:r/255.0f green:g/255.0f blue:b/255.0f alpha:1.0f]
+#define separaterColor LXGRB(200, 199, 204)
+
+//间距
+#define LXMargin 10
+
+#define LXFont(a) [UIFont systemFontOfSize:a]
+
+//5.常用对象
+#define APPDELEGATE ((AppDelegate *)[UIApplication sharedApplication].delegate)
+
+//6.经纬度
+#define LATITUDE_DEFAULT 39.983497
+#define LONGITUDE_DEFAULT 116.318042
+
+//7.
+#define IOS_VERSION [[[UIDevice currentDevice] systemVersion] floatValue]
+#endif /* PrefixHeader_pch */
+

@@ -1,0 +1,6 @@
+framework module Pods_LXMeituan {
+  umbrella header "Pods-LXMeituan-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D68269CE2DCD088ADF4FAA99A19BA90542383E3C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D68269CE2DCD088ADF4FAA99A19BA90542383E3C" : 9223372036854775807,
+    "9D814D477965E9959CD9919E51A5E204848C1A07" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3CAC117E-EAC2-4646-819D-0E2C00607F23",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D68269CE2DCD088ADF4FAA99A19BA90542383E3C" : "LXMeituan\/",
+    "9D814D477965E9959CD9919E51A5E204848C1A07" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LXMeituan",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LXMeituan\/LXMeituan.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lucian-ma\/gitTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9D814D477965E9959CD9919E51A5E204848C1A07"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lucian-ma\/LXMeituan.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D68269CE2DCD088ADF4FAA99A19BA90542383E3C"
+    }
+  ]
+}
